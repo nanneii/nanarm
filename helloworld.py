@@ -391,7 +391,7 @@ def helpmessage():
                     "╠ " + key + "SearchMusic 「Search」" + "\n" + \
                     "╠ " + key + "SearchLyric 「Search」" + "\n" + \
                     "╠ " + key + "SearchImage 「Search」" + "\n" + \
-                    "╚══[✤နะধำମລัບ✤]"
+                    "╚══[••✤နะধำମລัບ✤••]"
     return helpMessage
 
 def helptexttospeech():
