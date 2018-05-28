@@ -391,7 +391,7 @@ def helpmessage():
                     "╠ " + key + "SearchMusic 「Search」" + "\n" + \
                     "╠ " + key + "SearchLyric 「Search」" + "\n" + \
                     "╠ " + key + "SearchImage 「Search」" + "\n" + \
-                    "╚══[ Copyright @Zero-Cool404 ]"
+                    "╚══[ ✤နะধำମລัບ✤ ]"
     return helpMessage
 
 def helptexttospeech():
@@ -453,7 +453,7 @@ def helptexttospeech():
                         "╠ " + key + "uk : Ukrainian" + "\n" + \
                         "╠ " + key + "vi : Vietnamese" + "\n" + \
                         "╠ " + key + "cy : Welsh" + "\n" + \
-                        "╚══[ Copyright @Zero-Cool404 ]" + "\n" + "\n\n" + \
+                        "╚══[ ✤နะধำମລัບ✤ ]" + "\n" + "\n\n" + \
                         "Contoh : " + key + "say-id Zero"
     return helpTextToSpeech
 
@@ -569,7 +569,7 @@ def helptranslate():
                     "╠ " + key + "zu : zulu" + "\n" + \
                     "╠ " + key + "fil : Filipino" + "\n" + \
                     "╠ " + key + "he : Hebrew" + "\n" + \
-                    "╚══[ Copyright @Zero-Cool404 ]" + "\n" + "\n\n" + \
+                    "╚══[ ✤နะধำମລัບ✤ ]" + "\n" + "\n\n" + \
                     "Contoh : " + key + "tr-id Zero"
     return helpTranslate
 
